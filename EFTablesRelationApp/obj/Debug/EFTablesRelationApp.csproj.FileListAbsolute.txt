@@ -1,0 +1,11 @@
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EFTablesRelationApp.exe.config
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EFTablesRelationApp.exe
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EFTablesRelationApp.pdb
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EntityFramework.dll
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EntityFramework.xml
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\obj\Debug\EFTablesRelationApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\obj\Debug\EFTablesRelationApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\obj\Debug\EFTablesRelationApp.exe
+C:\Users\Ильяс Сабитов\source\EFTablesRelationApp\EFTablesRelationApp\obj\Debug\EFTablesRelationApp.pdb
